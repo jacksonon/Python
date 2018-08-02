@@ -1,2 +1,9 @@
 # EasyPython
-How to learn Python
+
+Python语言目前大热，而且在以后的一段时间内也会持续热度。
+
+服务端、数据分析、人工智能、系统运维...互联网的每一个角落都可以看到Python的身影
+
+如果2018年你还没有学会Python，掌握Python，相信你未来的互联网道路将会越来越窄。
+
+所以，我们一起走进Python的学习道路吧。EasyPython与你同行。
